@@ -1,7 +1,12 @@
+
+<style type="text/css">
+    ol { list-style-type: lower-alpha; }
+</style>
+
 1. cars
-   2. chevy
-   3. ford 
+  1. chevy
+  1. ford 
  
 3. planes
-   4. airbus
-   5. boeing
+    4. airbus
+    5. boeing
